@@ -1,0 +1,80 @@
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+ }
+.nav{
+    display: block;
+    border: 2px solid white;
+    margin-top: 50px;
+    background-color: white;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left:100px;
+    padding-right:140px;
+    color:black;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color:brown;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.about h1{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Menu{
+    color: white;
+    text-align: center;
+}
+.chiheading{
+    color: white;
+}
+.chinese {
+    display: flex;
+    color: white;
+  }
+.chinese img{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    background-color: brown;
+    border: 2px solid white;
+  }
+  figure{
+    text-align: center;
+  }
+  figcaption{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+  }
+  .SouthHeading{
+    color: white;
+}
+.SouthIndian {
+    display: flex;
+    color: white;
+  }
+.SouthIndian img{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    background-color: brown;
+    border: 2px solid white;
+  }
+  figure{
+    text-align: center;
+  }
+  figcaption{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+  }
+ 
